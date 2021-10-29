@@ -1,11 +1,11 @@
 ﻿using System.Diagnostics.CodeAnalysis;
+using BluffinMuffin.Poker.Common.Helpers;
 using Com.Ericmas001.DependencyInjection.Registrants;
-using Poker.Common.Helpers;
 
-namespace Poker.Common
+namespace BluffinMuffin.Poker.Common
 {
     [ExcludeFromCodeCoverage]
-    public class PokerCommandRegistrant : AbstractRegistrant
+    public class PokerCommonRegistrant : AbstractRegistrant
     {
         protected override void RegisterEverything()
         {

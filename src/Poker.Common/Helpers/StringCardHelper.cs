@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Linq;
-using Poker.Common.Contract;
+using BluffinMuffin.Poker.Common.Contract;
 
-namespace Poker.Common.Helpers
+namespace BluffinMuffin.Poker.Common.Helpers
 {
     public interface IStringCardHelper
     {

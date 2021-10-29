@@ -1,4 +1,4 @@
-﻿namespace Poker.Common.Contract
+﻿namespace BluffinMuffin.Poker.Common.Contract
 {
     public enum CardSuitEnum
     {

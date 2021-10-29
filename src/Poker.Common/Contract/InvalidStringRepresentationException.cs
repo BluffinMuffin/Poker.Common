@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Poker.Common.Contract
+namespace BluffinMuffin.Poker.Common.Contract
 {
     public class InvalidStringRepresentationException : Exception
     {
