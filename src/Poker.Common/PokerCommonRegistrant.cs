@@ -10,6 +10,7 @@ namespace BluffinMuffin.Poker.Common
         protected override void RegisterEverything()
         {
             Register<IStringCardHelper, StringCardHelper>();
+            Register<IStringQualityHelper, StringQualityHelper>();
         }
     }
 }
